@@ -1,0 +1,81 @@
+Script started on 2024-09-08 00:41:37-04:00 [TERM="xterm-256color" TTY="/dev/pts/7" COLUMNS="174" LINES="25"]
+]0;ngv321@cscie-2x-i: ~/26-hw0[01;32mngv321@cscie-2x-i[00m:[01;34m~/26-hw0[00m$ gcc -Wall -Wextra first_try.c
+]0;ngv321@cscie-2x-i: ~/26-hw0[01;32mngv321@cscie-2x-i[00m:[01;34m~/26-hw0[00m$ ./a.out
+Enter 10 numbers: 1 2 3 4 5 1 2 3 4 5
+Here are your numbers in reverse order
+ 5.000000 4.000000 3.000000 2.000000 1.000000 5.000000 4.000000 3.000000 2.000000 1.000000
+]0;ngv321@cscie-2x-i: ~/26-hw0[01;32mngv321@cscie-2x-i[00m:[01;34m~/26-hw0[00m$ ./a.out
+Enter 10 numbers: 21 32 43 12 54 12 65 43 36 43 76
+Here are your numbers in reverse order
+ 43.000000 36.000000 43.000000 65.000000 12.000000 54.000000 12.000000 43.000000 32.000000 21.000000
+]0;ngv321@cscie-2x-i: ~/26-hw0[01;32mngv321@cscie-2x-i[00m:[01;34m~/26-hw0[00m$ ./a.out
+Enter 10 numbers: 12 aa 23 ds 32 45.4 -10 1b 23 01
+Here are your numbers in reverse order
+ 0.000000 -11788720.000000 0.000000 0.000009 0.000000 0.000000 0.000000 0.000009 0.000000 12.000000
+]0;ngv321@cscie-2x-i: ~/26-hw0[01;32mngv321@cscie-2x-i[00m:[01;34m~/26-hw0[00m$ mv a.out reverse
+]0;ngv321@cscie-2x-i: ~/26-hw0[01;32mngv321@cscie-2x-i[00m:[01;34m~/26-hw0[00m$ ln -s ~dce-lib113/sched.errs sched
+ln: failed to create symbolic link 'sched': File exists
+]0;ngv321@cscie-2x-i: ~/26-hw0[01;32mngv321@cscie-2x-i[00m:[01;34m~/26-hw0[00m$ rm sched
+]0;ngv321@cscie-2x-i: ~/26-hw0[01;32mngv321@cscie-2x-i[00m:[01;34m~/26-hw0[00m$ rm sched[26@ln -s ~dce-lib113/sched.errs[C[C[C[C[C[C
+]0;ngv321@cscie-2x-i: ~/26-hw0[01;32mngv321@cscie-2x-i[00m:[01;34m~/26-hw0[00m$ ln -s ~dce-lib113/sched.errs sched[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crm sched[K[26@ln -s ~dce-lib113/sched.errs[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pmv a.out reverse[9P./a.outmv a.out reverse[9P./a.outgcc -Wall -Wextra first_try.cll[Kchmod 600 authorized_keys ll[Kcd .ssh/ll[Ksrm -rf test[1P[C[C[C[C[C[Cls[Kcd ..[3Plscd ..[3Plsgit push origin mainstercommit -m "first commit"nfig --global user.name "Ngoc Vo"[7P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cglobal user.email "ngocduyvo12@gmail.com"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[26Pmmit -m "first commit"add .[Kstatusls[Ktouch test_push.mdls[Kcd test/ls[Kgit clone https://github.com/ngocduyvo12/test.git[4Pgit@github.com:ngocduyvo12/test.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd test/mkdir testls[Kcat /home/users/ngv321/.ssh/id_rsa.pub[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kssh-keygen -o [C[C[C[C[C[C[C[C[Cls[Kssh keygen -o-[C[C[C[C[C[C[C[C[Cls[Kcat /home/users/ngv321/.ssh/id_rsa.pub[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kmkdir test[2Pcd test/ls[Kgit clone git@github.com:ngocduyvo12/test.githttps://github.com/ngocduyvo12/test.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd test/ls[Ktouch test_push.mdls[Kgit status[1Padd .commit -m "first commit"nfig --global user.email "ngocduyvo12@gmail.com"[22Puser.name "Ngoc Vo"global user.email "ngocduyvo12@gmail.com"[22Puser.name "Ngoc Vo"[7@global [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pmmit -m "first commit"[6Ppush origin master[2Pinls[Kcd ..[3Plscd ..[3Plsrm -f test[1@r[C[C[C[C[C[Cls[Klcd .ssh/ll[Kchmod 600 authorized_keys ll[Kgcc -Wall -Wextra first_try.c./a.out[Kmv a.out reverseln -s ~dce-lib113/sched.errs sched[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crm sched[K[26@ln -s ~dce-lib113/sched.errs[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kln -s ~dce-lib113/sched.errs sched[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crm sched[K[26@ln -s ~dce-lib113/sched.errs[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[18Pmv a.out reverse[9P./a.outgcc -Wall -Wextra first_try.cll[Kchmod 600 authorized_keys ll[Kcd .ssh/ll[Ksrm -rf test[1P[C[C[C[C[C[Cls[Kcd ..[3Plscd ..[3Plsgit push origin mainstercommit -m "first commit"nfig --global user.name "Ngoc Vo"[7P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cglobal user.email "ngocduyvo12@gmail.com"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[26Pmmit -m "first commit"add .[Kstatusls[Ktouch test_push.mdls[Kcd test/ls[Kgit clone https://github.com/ngocduyvo12/test.git[4Pgit@github.com:ngocduyvo12/test.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd test/mkdir testls[Kcat /home/users/ngv321/.ssh/id_rsa.pub[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kssh-keygen -o [C[C[C[C[C[C[C[C[Cls[Kssh keygen -o-[C[C[C[C[C[C[C[C[Cls[Kcat /home/users/ngv321/.ssh/id_rsa.pub[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kmkdir test[2Pcd test/ls[Kgit clone git@github.com:ngocduyvo12/test.githttps://github.com/ngocduyvo12/test.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[Kcd test/ls[Ktouch test_push.mdls[Kgit status[1Padd .commit -m "first commit"nfig --global user.email "ngocduyvo12@gmail.com"[22Puser.name "Ngoc Vo"[7@global [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[11Pmmit -m "first commit"[6Ppush origin master[2Pinls[Kcd ..[3Plscd ..[3Plsrm -f test[1@r[C[C[C[C[C[Cls[Klcd .ssh/ll[Kchmod 600 authorized_keys ll[Kgcc -Wall -Wextra first_try.c./a.out[Kmv a.out reverseln -s ~dce-lib113/sched.errs sched[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Crm sched[K[26@ln -s ~dce-lib113/sched.errs[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K./average_number.sh 
+Enter non-zero integers (Enter 0 to stop):
+23
+43
+56
+12
+0
+Sum: 134
+Number's count: 4
+Max Value: 56
+Min Value: 12
+Average: 33.50
+Difference between largest and smallest number: 44
+]0;ngv321@cscie-2x-i: ~/26-hw0[01;32mngv321@cscie-2x-i[00m:[01;34m~/26-hw0[00m$ ./days_counting.sh 
+Enter the first date (Format: Jul 4): Ful   Jul 4
+Enter the second date (Format: Oct 31): Oct 31
+Number of days between Jul 4 and Oct 31: 119 days
+]0;ngv321@cscie-2x-i: ~/26-hw0[01;32mngv321@cscie-2x-i[00m:[01;34m~/26-hw0[00m$ ./counts_letters_from_keyboard.sh 
+Enter text: 
+I love coding
+c: 1
+d: 1
+e: 1
+g: 1
+i: 2
+l: 1
+n: 1
+o: 2
+v: 1
+]0;ngv321@cscie-2x-i: ~/26-hw0[01;32mngv321@cscie-2x-i[00m:[01;34m~/26-hw0[00m$ ./counts_letters_from_keyboard.sh [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15Pdays_counting[C[C[C[C[15@counts_letters_from_keyboard[C[C[C[C[K[K[K[K_v2.sh 
+Enter text: 
+I love coding
+o: 2
+i: 2
+v: 1
+n: 1
+l: 1
+g: 1
+e: 1
+d: 1
+c: 1
+]0;ngv321@cscie-2x-i: ~/26-hw0[01;32mngv321@cscie-2x-i[00m:[01;34m~/26-hw0[00m$ ./counts_letters_from_keyboard_v2.sh 
+Enter text: 
+this sentence co  has racecar
+e: 4
+s: 3
+c: 3
+a: 3
+t: 2
+r: 2
+n: 2
+h: 2
+i: 1
+]0;ngv321@cscie-2x-i: ~/26-hw0[01;32mngv321@cscie-2x-i[00m:[01;34m~/26-hw0[00m$ ./counts_letters_from_keyboard_v2.sh [K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K./busiest-hour.sh 
+]0;ngv321@cscie-2x-i: ~/26-hw0[01;32mngv321@cscie-2x-i[00m:[01;34m~/26-hw0[00m$ ./busiest-hour.sh sat[K
+    170 15
+]0;ngv321@cscie-2x-i: ~/26-hw0[01;32mngv321@cscie-2x-i[00m:[01;34m~/26-hw0[00m$ ./busiest-hour.sh sa[Ku
+    169 15
+]0;ngv321@cscie-2x-i: ~/26-hw0[01;32mngv321@cscie-2x-i[00m:[01;34m~/26-hw0[00m$ exit
+exit
+
+Script done on 2024-09-08 00:48:07-04:00 [COMMAND_EXIT_CODE="0"]
